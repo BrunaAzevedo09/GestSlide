@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gs_fundo_topo">#1E1E2E</color>
+    <color name="gs_fundo_base">#2B2B5E</color>
+    <color name="gs_painel">#1E1E2E</color>
+    <color name="gs_cartao">#2A2A3D</color>
+    <color name="gs_cartao_borda">#3F3F5C</color>
+    <color name="gs_cartao_selecionado">#2E3170</color>
+    <color name="gs_primario">#7C8CFF</color>
+    <color name="gs_primario_escuro">#6C5CE7</color>
+    <color name="gs_verde">#4ADE80</color>
+    <color name="gs_texto">#F5F5F5</color>
+    <color name="gs_texto_suave">#B8B8D0</color>
+    <color name="gs_campo">#12121F</color>
+</resources>
